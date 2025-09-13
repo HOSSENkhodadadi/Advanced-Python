@@ -1,2 +1,2 @@
-# Advanced-Python
+# Minimal-Advanced-Python
 minimal advanced python
