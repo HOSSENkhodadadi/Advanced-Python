@@ -1,4 +1,3 @@
-# Minimalis-Advanced-Python
 # 🔥 Advanced Python – The Minimalist GPT-Driven Learning Approach
 
 ## ⚠️ STOP Searching Google or Watching Hours of YouTube
@@ -10,7 +9,7 @@ You **don’t** need to:
 
 ---
 
-## 🚀 A New Way to Learn
+## A New Way to Learn
 
 This repository introduces a **new, interactive way** to master **Advanced Python concepts** by leveraging **ChatGPT** as your personal tutor in a **question-driven** learning loop.
 
